@@ -45,11 +45,10 @@ html {
 .banner {
   background-image: url("../images/banner.jpg");
   background-size: cover;
-  background-image: linear-gradient(to bottom, transparent rgba(16, 52, 41, 0), rgba(16, 52, 41, .8)), url("../images/banner.jpg");
+  background-image: linear-gradient(to bottom, transparent, rgba(16, 52, 41, 0), rgba(16, 52, 41, .8)), url("../images/banner.jpg");
   border-bottom: solid 3px #2d5a4d;
   padding-left: .25em;
   background-position: bottom;
-  background-size: cover;
 }
 
 .banner-content {
