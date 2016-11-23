@@ -28,7 +28,7 @@ html {
   color: #fff;
   border: 3px solid #2d5a4d;
   background-color: #467366;
-  margin: .5px
+  margin: .5px;
 }
 
 .nav a:hover {
@@ -40,7 +40,6 @@ html {
 }
 
 .banner {
-  background-image: url("../images/banner.jpg");
   background-size: cover;
   background-image: linear-gradient(to bottom, transparent, rgba(16, 52, 41, 0), rgba(16, 52, 41, .8)), url("../images/banner.jpg");
   border-bottom: solid 3px #2d5a4d;
