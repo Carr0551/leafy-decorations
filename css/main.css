@@ -33,12 +33,9 @@ html {
 
 .nav a:hover {
   background-image: url("../images/leaf-icon.svg");
-  border-radius: 8px;
-  border-width: 3px;
   border-color: #145b1d;
-  border: #145b1d;
+  color: #145b1d;
   background-color: #fff;
-  border-width: 3px;
   background-repeat: no-repeat;
 }
 
